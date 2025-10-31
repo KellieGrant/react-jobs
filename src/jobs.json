@@ -86,13 +86,12 @@
     },
     {
       "id": "f68a",
-      "title": "Test 1",
+      "title": "Test 3",
       "type": "Full-Time",
       "location": "jkdhasfjkhdsal",
       "description": "jkndsalkfjnadjkfhlkjah",
       "salary": "Under $50K",
       "company": {
-        "name": "kjlhadsjfhlajskdhf",
         "description": "lkjshafdgdhlh",
         "contactEmail": "test@test.ca",
         "contactPhone": "1234567890"
